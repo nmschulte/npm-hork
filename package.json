@@ -1,0 +1,10 @@
+{
+  "name": "npm-hork",
+  "private": true,
+  "dependencies": {
+    "ogr2ogr": "^1.2.1"
+  },
+  "devDependencies": {
+    "fs-extra": "^5.0.0"
+  }
+}
